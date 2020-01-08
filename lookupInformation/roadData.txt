@@ -1,0 +1,14 @@
+motorway,70
+trunk,50
+primary,40
+secondary,40
+tertiary,30
+unclassified,30
+residential,20
+motorway_link,70
+trunk_link,50
+primary_link,40
+secondary_link,40
+tertiary_link,30
+living_street,10
+road,30
